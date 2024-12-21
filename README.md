@@ -39,7 +39,7 @@ The project aims to answer the following questions:
 
 ## To run the project
 1. Clone the repository
-2. Make sure you have pip installed
+2. Make sure you have pip installed and are running Python 3.9.x to 3.12.x version
 3. Install the required libraries using the following command:
         ```
         pip install -r requirements.txt
