@@ -29,13 +29,15 @@ The project aims to answer the following questions:
 10. Is there a correlation between units sold and total profit?
 11. Which item types have the highest profit margins (profit as a percentage of revenue)?
 12. How do unit prices vary across different regions?
+13. Which regions and product types have the highest profit margins, and how does this vary across order priorities?
+14. Can we predict the most profitable combination of region, item type, and sales channel, given the number of units sold and unit prices? (In Progress)
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-- Numpy
+- Sklearn (Scikit-learn)
 
 ## To run the project
 1. Clone the repository
