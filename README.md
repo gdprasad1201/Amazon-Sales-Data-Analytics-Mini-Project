@@ -35,6 +35,8 @@ The project aims to answer the following questions:
 ## Tools Used
 - Python
 - Pandas
+- Numpy
+- Pyarrow
 - Matplotlib
 - Seaborn
 - Sklearn (Scikit-learn)

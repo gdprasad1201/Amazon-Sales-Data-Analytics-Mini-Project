@@ -1,3 +1,5 @@
+numpy
+pyarrow
 pandas
 matplotlib
 seaborn
