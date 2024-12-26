@@ -2,7 +2,8 @@
 
 ## Introduction
 This project is a mini project that aims to analyze the sales data of Amazon. The dataset used in this project is a sample dataset that contains the sales data of Amazon from 2003 to 2005 from this [Kaggle Dataset](https://www.kaggle.com/datasets/gokulvino/amazon-sales-data-analysis-project1/data). The dataset contains the following columns: 
-- Region,Country
+- Region
+- Country
 - Item Type
 - Sales Channel
 - Order Priority
@@ -30,7 +31,7 @@ The project aims to answer the following questions:
 11. Which item types have the highest profit margins (profit as a percentage of revenue)?
 12. How do unit prices vary across different regions?
 13. Which regions and product types have the highest profit margins, and how does this vary across order priorities?
-14. Can we predict the most profitable combination of region, item type, and sales channel, given the number of units sold and unit prices? (In Progress)
+14. Using a machine learning model, can we predict the most profitable combination of country, item type, and sales channel, given the number of units sold and unit prices? (In Progress)
 
 ## Tools Used
 - Python
@@ -45,7 +46,8 @@ The project aims to answer the following questions:
 2. Make sure you have pip installed and are running Python 3.9.x to 3.12.x version
 3. Install the required libraries using the following command:
         ```
-        pip install -r requirements.txt
+        pip install -r requirements.txt if on Windows 11
+        pip3 install -r requirements.txt if on MacOS or Linux
         ```
 4. Run the Jupyter Notebook using your Python interpreter as the kernel
 5. Run the cells in the Jupyter Notebook to see the analysis of the Amazon Sales Data
