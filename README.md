@@ -1,7 +1,7 @@
-# Amazon-Sales-Data-Analytics-Mini-Project (In Progress)
+# Amazon-Sales-Data-Analytics-Project (In Progress)
 
 ## Introduction
-This project is a mini project that aims to analyze the sales data of Amazon. The dataset used in this project is a sample dataset that contains the sales data of Amazon from 2003 to 2005 from this [Kaggle Dataset](https://www.kaggle.com/datasets/gokulvino/amazon-sales-data-analysis-project1/data). The dataset contains the following columns: 
+This project is a project that aims to analyze the sales data of Amazon. The dataset used in this project is a sample dataset that contains the sales data of Amazon from 2003 to 2005 from this [Kaggle Dataset](https://www.kaggle.com/datasets/gokulvino/amazon-sales-data-analysis-project1/data). The dataset contains the following columns: 
 - Region
 - Country
 - Item Type
